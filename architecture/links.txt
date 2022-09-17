@@ -1,0 +1,5 @@
+A) Digitisation
+    A1. Ways to Improve Your Monolith Before Transitioning to Microservices
+        https://semaphoreci.com/blog/monolith-microservices
+        
+    

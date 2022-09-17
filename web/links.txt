@@ -35,7 +35,11 @@ A) Web
     A9. how-to-test-code-coupled-to-apis-or-databases
         https://khalilstemmler.com/articles/test-driven-development/how-to-test-code-coupled-to-apis-or-databases/
         
+    A10. JS for ReactJS
+        https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n
         
+    A11. hide-reactjs-code-from-browser
+        https://dev.to/capscode/hide-reactjs-code-from-browser-1nl0
         
 B) Web pack
     B1. practical webpack basics pure javascript frontend
@@ -61,6 +65,16 @@ C) UI/UX
          
      D2. PWA 
          https://www.altexsoft.com/blog/engineering/progressive-web-apps/
+         
+     D3. ReactJS app folder structure
+         https://dev.to/yacouri/reactjs-folder-structure-boilerplate-155n
+         
+     D4. front-end-testing-principles-levels-libraries-and-automation
+         https://blog.openreplay.com/front-end-testing-principles-levels-libraries-and-automation
         
-        
+     D5. NextJS sclalable architecture
+         https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7
+         
+     D6. Migrate incrementally to NectJS from ReactJS
+         https://nextjs.org/docs/migrating/incremental-adoption
         

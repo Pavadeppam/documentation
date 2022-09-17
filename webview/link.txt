@@ -1,6 +1,21 @@
 A) Web+Mobile app
 
     A1. Mobile app webview design understanding
-
         https://developer.mastercard.com/click-to-pay/documentation/integration/client_integration/mobile/
+        
+    A2. Browser API for mobile web view (APIs that bring that native mobile feel to the web)
+        (Web Share API, Contact Picker API, Clipboard API, Web Speech API, Notification API)<--Has widspread support
+        (Screen Wake Lock API, WebXR Device API, Web NFC API)<--APIs that should have widespread support among browsers in the future.
+        https://blog.logrocket.com/5-web-apis-mobile-functionality/
 
+    A3. Flutter app webview and web app communication
+        https://diamantidis.github.io/2021/10/17/two-way-communication-between-flutter-webview-and-a-web-page
+        https://www.techyourchance.com/communication-webview-javascript-android/
+        https://www.freecodecamp.org/news/how-to-build-a-native-communication-bridge-in-flutter-with-webview-and-javascript/
+        https://stackoverflow.com/questions/59261570/flutter-two-way-communication-js-to-dart-and-callback-result-from-dart-to-js
+        
+    A4. SSO login from native app to webiew
+        https://mobidev.biz/blog/single-sign-on-sso-implementation-benefits-enterprise
+        https://github.com/react-native-cookies/cookies/issues/120
+        https://community.auth0.com/t/how-to-enable-sso-login-from-ios-native-app-to-a-webview/64978
+        https://stackoverflow.com/questions/45177826/sso-approach-for-native-mobile-app-with-web-views

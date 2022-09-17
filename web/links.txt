@@ -1,0 +1,4 @@
+A) Web
+    A1. ReactJS design patterns
+        https://www.patterns.dev/
+        

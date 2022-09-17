@@ -1,5 +1,15 @@
 A) Digitisation
-    A1. Ways to Improve Your Monolith Before Transitioning to Microservices
+    A1. Microservices - Ways to Improve Your Monolith Before Transitioning to Microservices
         https://semaphoreci.com/blog/monolith-microservices
         
+B) General
+   B1. Process
+       https://huspi.com/blog-open/what-the-differences-lld-hld-dld/
+       
+ C) Web Acrhiteture
+    C1. Ten-year changes in GUI application architecture: MVC, MVP, MVVM, Unidirectional, Clean
+        https://developpaper.com/ten-year-changes-in-gui-application-architecture-mvc-mvp-mvvm-unidirectional-clean/
+        
+    C2. Architecture more suitable for web apps than MVC?
+        https://stackoverflow.com/questions/7621832/architecture-more-suitable-for-web-apps-than-mvc
     

@@ -1,0 +1,6 @@
+A) Web+Mobile app
+
+    A1. Mobile app webview design understanding
+
+        https://developer.mastercard.com/click-to-pay/documentation/integration/client_integration/mobile/
+

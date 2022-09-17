@@ -1,0 +1,4 @@
+A) CI/CD
+    A1. Basic understanding of CI/CD
+        https://www.opsmx.com/blog/what-is-a-ci-cd-pipeline/
+        

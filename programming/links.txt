@@ -2,3 +2,6 @@ A) Javascript
     A1. JS inyerview
         https://www.algochurn.com/frontend
         https://travel-guide.club/?ts_id=115
+        
+    A2. JS design patterns
+        https://www.syncfusion.com/blogs/post/using-design-patterns-in-javascript-the-ultimate-guide.aspx/amp

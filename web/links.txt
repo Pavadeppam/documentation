@@ -32,6 +32,9 @@ A) Web
     A8. MERN practical
         https://www.youtube.com/c/CodeImprove
         
+    A9. how-to-test-code-coupled-to-apis-or-databases
+        https://khalilstemmler.com/articles/test-driven-development/how-to-test-code-coupled-to-apis-or-databases/
+        
         
         
 B) Web pack
@@ -55,6 +58,9 @@ C) UI/UX
  D) Web Architecture
      D1. Web workers vs Service workers vs Worklets
          https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/
+         
+     D2. PWA 
+         https://www.altexsoft.com/blog/engineering/progressive-web-apps/
         
         
         

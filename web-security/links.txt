@@ -1,0 +1,7 @@
+A) Websecurity
+    A.1) npm audit vs npm audit --production
+          
+          https://github.com/npm/npm/issues/20564
+          https://github.com/facebook/create-react-app/issues/11174
+          https://overreacted.io/npm-audit-broken-by-design/
+       

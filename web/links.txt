@@ -16,6 +16,25 @@ A) Web
         https://dev.to/colocodes/how-to-debug-a-react-app-51l4
         https://blog.bitsrc.io/vs-code-extensions-you-should-use-as-a-react-developer-83fb1fc21d1e
         
+        Debug webapp
+        https://hamatti.org/guides/humane-guide-to-debugging/
+        
+    A5. dev, test and deploy ReactJS app to azure
+        https://www.youtube.com/watch?v=8vfQ6SWBZ-U
+        
+    A6) ReactJS interview Q/A
+        https://www.linkedin.com/posts/gaurav-pandey-a5b884131_300-react-js-interview-questions-with-answers-ugcPost-6940869415039037440-PHYi/?utm_source=linkedin_share&utm_medium=android_app
+        
+B) Web pack
+    B1. practical webpack basics pure javascript frontend
+        https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356
+        
+C) UI/UX
+   C1. Figma
+       https://stackoverflow.com/questions/66599550/how-to-export-material-ui-with-figma-to-a-web-app
+       https://www.animaapp.com/blog/design-to-code/how-to-export-figma-to-react/
+       https://stackoverflow.com/questions/66599550/how-to-export-material-ui-with-figma-to-a-web-app
+        
         
         
         

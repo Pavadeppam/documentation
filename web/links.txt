@@ -14,6 +14,8 @@ A) Web
         
     A4. Debug reactJS app
         https://dev.to/colocodes/how-to-debug-a-react-app-51l4
+        https://blog.bitsrc.io/vs-code-extensions-you-should-use-as-a-react-developer-83fb1fc21d1e
+        
         
         
         

@@ -52,7 +52,9 @@ C) UI/UX
        https://www.animaapp.com/blog/design-to-code/how-to-export-figma-to-react/
        https://stackoverflow.com/questions/66599550/how-to-export-material-ui-with-figma-to-a-web-app
         
-        
+ D) Web Architecture
+     D1. Web workers vs Service workers vs Worklets
+         https://bitsofco.de/web-workers-vs-service-workers-vs-worklets/
         
         
         

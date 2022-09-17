@@ -29,10 +29,22 @@ A) Web
         https://javascript.plainenglish.io/try-mobx-instead-of-redux-for-your-state-management-2120d3239c6f
         https://keyholesoftware.com/2018/09/17/state-management-with-mobx-and-react/
         
+    A8. MERN practical
+        https://www.youtube.com/c/CodeImprove
+        
+        
         
 B) Web pack
     B1. practical webpack basics pure javascript frontend
         https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356
+        
+    B2. Monorepos JS and Typescript
+        https://www.robinwieruch.de/javascript-monorepos/
+        
+    B3. deploying-micro-frontends-with-module-federation-and-nextjs
+        https://cogent.co/blog/deploying-micro-frontends-with-module-federation-and-nextjs/
+        https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh
+        
         
 C) UI/UX
    C1. Figma

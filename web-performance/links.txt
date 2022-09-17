@@ -2,6 +2,9 @@ A) Web Performance
     A1) Memlab frame work for identifying memory leaks in Javascript
         https://engineering.fb.com/2022/09/12/open-source/memlab/
         
+    A2) comparing tools optimizing performance reactJS
+        https://blog.logrocket.com/comparing-tools-optimizing-performance-react/
+        
 B) Web Bundling
    B1. Minimizing Bundle Sizes in React
        https://www.youtube.com/watch?v=geHEm6Hn_2c

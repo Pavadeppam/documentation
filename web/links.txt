@@ -41,6 +41,9 @@ A) Web
     A11. hide-reactjs-code-from-browser
         https://dev.to/capscode/hide-reactjs-code-from-browser-1nl0
         
+    A12. Axios API call in ReactJS
+        https://stackabuse.com/making-asynchronous-http-requests-in-javascript-with-axios/
+        
 B) Web pack
     B1. practical webpack basics pure javascript frontend
         https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356

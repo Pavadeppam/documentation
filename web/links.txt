@@ -25,6 +25,11 @@ A) Web
     A6) ReactJS interview Q/A
         https://www.linkedin.com/posts/gaurav-pandey-a5b884131_300-react-js-interview-questions-with-answers-ugcPost-6940869415039037440-PHYi/?utm_source=linkedin_share&utm_medium=android_app
         
+    A7. Mobx store
+        https://javascript.plainenglish.io/try-mobx-instead-of-redux-for-your-state-management-2120d3239c6f
+        https://keyholesoftware.com/2018/09/17/state-management-with-mobx-and-react/
+        
+        
 B) Web pack
     B1. practical webpack basics pure javascript frontend
         https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356

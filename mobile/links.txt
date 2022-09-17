@@ -1,8 +1,18 @@
 A) Flutter
     A1. flutter test
         https://medium.flutterdevs.com/exploration-of-unit-testing-in-flutter-4f670f12b75
+        https://medium.com/flutter-community/how-do-we-test-flutter-applications-unit-test-beb6c8d9d5ac
         
     A2. flutter store management
         https://medium.flutterdevs.com/getx-state-management-in-flutter-a9710277b0bc
+        https://martinnowosad.medium.com/flutter-model-view-presenter-clean-architecture-454bb601d755
+        
+    A3. Storing secret keys in flutter
+       https://levelup.gitconnected.com/envify-your-secret-vault-in-flutter-808bbffb1af9
+
+B) Architecture
+    B1. Flutter clean architecture
+        https://verygood.ventures/blog/very-good-flutter-architecture?utm_source=linkedin&utm_medium=social&utm_campaign=app_architecture
+        
         
         

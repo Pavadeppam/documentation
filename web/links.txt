@@ -1,6 +1,7 @@
 A) Web
     A1. ReactJS design patterns
         https://www.patterns.dev/
+        https://www.patterns.dev/posts/nextjs-casestudy/
         https://konstantinlebedev.com/solid-in-react/
         
     A2. Creating a cross-domain ReactJS component, with zoid(Iframe sharing)

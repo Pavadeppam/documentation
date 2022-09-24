@@ -3,6 +3,7 @@ A) Web
         https://www.patterns.dev/
         https://www.patterns.dev/posts/nextjs-casestudy/
         https://konstantinlebedev.com/solid-in-react/
+        https://stackoverflow.com/questions/63584365/absolute-simplest-example-of-an-functional-observable-pattern-in-react
         
     A2. Creating a cross-domain ReactJS component, with zoid(Iframe sharing)
         https://bluepnume.medium.com/creating-a-cross-domain-react-component-with-xcomponent-fbcccc4778fd

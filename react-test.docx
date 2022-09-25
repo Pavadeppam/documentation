@@ -1,0 +1,25 @@
+1) Project Set up
+
+> npx create-react-app . --template typescript
+or
+> npx create-react-app <projName> -- template typescript
+
+>cd <projName>
+
+> npm start
+
+2) run tests
+
+> npm test
+
+3) Example of test module App.test.jsx
+
+import React from 'react';
+import { render, screen } from '@testing-library/react';
+import App from './App';
+
+test('renders learn react link', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/learn react/i);
+  expect(linkElement).toBeInTheDocument();
+});

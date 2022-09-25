@@ -39,5 +39,25 @@ test(name,function, timeout)
                     by default 5 seconds
                     
  5) First test script
+    -->rafc short key
+    --> import React is not required after 17x 18x release
+ 
+//src/components/greet.tsx
+export const Greet = () => {
+  return <div>Hello</div>;
+};
+
+//src/components/greet.test.tsx
+import { render, screen } from '@testing-library/react';
+import { Greet } from './greet';
+test('render greet correctly', () => {
+  render(<Greet />);
+  const greetElement = screen.getByText(/hello/i);
+  expect(greetElement).toBeInTheDocument();
+});
+
+
+
+
  
                     

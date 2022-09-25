@@ -41,6 +41,7 @@ test(name,function, timeout)
  5) First test script
     -->rafc short key
     --> import React is not required after 17x 18x release
+    --> use /text/i for case insensitive in match function
  
 //src/components/greet.tsx
 export const Greet = () => {
@@ -54,6 +55,44 @@ test('render greet correctly', () => {
   render(<Greet />);
   const greetElement = screen.getByText(/hello/i);
   expect(greetElement).toBeInTheDocument();
+});
+
+6) TDD ( Test Driven Development)
+Test driven development is software development process where you write tests before writing the software code
+
+Once the tests have been written, you then write the code to ensure the tsts pass
+1. Create tests that verify the functionality of a specific feature
+2. Write software code that will run the tests successfully when re-executed
+3. Refactor the code for optimization while ensuring the tests continue to pass
+
+Also called Red-Green testing as all tests go from a red failed state to a green passed state
+
+7) TDD example
+Requirement Statement: Greet should render the text hello and if a name passed into component itshould render hello followed by the name
+
+
+// (1) src/components/greet.tsx
+type GreetProps = {
+  name?: String;
+};
+export const Greet = (props: GreetProps) => {
+  return <div>Hello {props.name}</div>;
+};
+
+// (2) src/components/greet.test.tsx
+import { render, screen } from '@testing-library/react';
+import { Greet } from './greet';
+
+test('render greet correctly', () => {
+  render(<Greet />);
+  const elementHello = screen.getByText(/hello/i);
+  expect(elementHello).toBeInTheDocument();
+});
+
+test('render greet with name correctly', () => {
+  render(<Greet name="Pava" />);
+  const elementGreet = screen.getByText(/hello pava/i);
+  expect(elementGreet).toBeInTheDocument();
 });
 
 

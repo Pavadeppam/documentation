@@ -1,2 +1,2 @@
 # documentation
-This is repository for tech read ups 
+This is repository links for tech stack materils

@@ -46,6 +46,10 @@ A) Web
     A12. Axios API call in ReactJS
         https://stackabuse.com/making-asynchronous-http-requests-in-javascript-with-axios/
         
+    A13. ReactJS 18 useEffect firing twice in dev mode
+         https://www.youtube.com/watch?v=81faZzp18NM
+         https://www.techiediaries.com/react-18-useeffect/#:~:text=If%20you%20have%20just%20made,upgraded%20to%20React%20version%2018.
+        
 B) Web pack
     B1. practical webpack basics pure javascript frontend
         https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356

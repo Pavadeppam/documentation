@@ -85,5 +85,8 @@ C) UI/UX
          https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7
          
      D6. Migrate incrementally to NectJS from ReactJS
-         https://nextjs.org/docs/migrating/incremental-adoption
+         https://nextjs.org/docs/migrating/incremental-adoption 
+         
+     D7  Architecture of Web and Mobile Applications
+      https://www.youtube.com/watch?v=Vp6vCclHG8Q
         

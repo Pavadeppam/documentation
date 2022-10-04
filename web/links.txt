@@ -49,6 +49,10 @@ A) Web
     A13. ReactJS 18 useEffect firing twice in dev mode
          https://www.youtube.com/watch?v=81faZzp18NM
          https://www.techiediaries.com/react-18-useeffect/#:~:text=If%20you%20have%20just%20made,upgraded%20to%20React%20version%2018.
+         
+   A14. React hooks
+        1) useRef
+           https://blog.alexdevero.com/reacts-useref-hook/#:~:text=The%20ref%2C%20in%20useRef%2C%20is%20a%20shorthand%20for,by%20useRef%2C%20React%20will%20not%20re-render%20your%20component.
         
 B) Web pack
     B1. practical webpack basics pure javascript frontend

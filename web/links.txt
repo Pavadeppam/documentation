@@ -102,6 +102,6 @@ C) UI/UX
    https://www.educative.io/path/typescript-for-front-end-developers
    https://www.educative.io/courses/javascript-in-practice-es6-and-beyond
    https://www.educative.io/module/LgoqGKFw117RR9Y8m/10370001/5707490647343104
-   
+   https://www.educative.io/courses/testing-react-apps-jest-react-testing-library
    
         

@@ -24,6 +24,8 @@ A) Web
     A5. dev, test and deploy ReactJS app to azure
         https://www.youtube.com/watch?v=8vfQ6SWBZ-U
         
+        https://www.educative.io/courses/test-driven-react-development
+        
     A6) ReactJS interview Q/A
         https://www.linkedin.com/posts/gaurav-pandey-a5b884131_300-react-js-interview-questions-with-answers-ugcPost-6940869415039037440-PHYi/?utm_source=linkedin_share&utm_medium=android_app
         

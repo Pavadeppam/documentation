@@ -55,6 +55,9 @@ A) Web
    A14. React hooks
         1) useRef
            https://blog.alexdevero.com/reacts-useref-hook/#:~:text=The%20ref%2C%20in%20useRef%2C%20is%20a%20shorthand%20for,by%20useRef%2C%20React%20will%20not%20re-render%20your%20component.
+           
+           https://daveceddia.com/useeffect-vs-uselayouteffect/
+           
         
 B) Web pack
     B1. practical webpack basics pure javascript frontend

@@ -4,11 +4,43 @@ https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
 
 https://www.youtube.com/watch?v=s1WQ0eEpqqg
 
-steps 
+steps to install mongod
 ----------
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+
+xcode-select --install
+brew tap mongodb/brew
+brew update
+brew install mongodb-community@6.0
+
+1 steps to check mongodb installation
+-------------------------------------
+brew --prefix 
+  /opt/.. or /local/..
+mongod --version
+
+2 start the mongodb server
+-----------------------
+mongod --dbpath /opt/homebrew/var/log/mongodb
+
+or
+
 brew services start mongodb-community@6.0          
 brew services stop mongodb-community@6.0
 mongod --config /opt/homebrew/etc/mongod.conf --fork
+
+3 open mongodb shell
+--------------------
 mongosh
 show dbs
 
+4 to address the 48 or 100 code error
+---------------------------------------
+  Kill the process running on port 27017
+npx kill-port 27017
+
+NOTE :=> 
+--------
+sudo mkdir -p /System/Volumes/Data/data/db
+
+sudo chown -R `id -un` System/Volumes/Data/d/data/db

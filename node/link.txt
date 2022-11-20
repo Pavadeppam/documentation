@@ -1,3 +1,14 @@
+1 Mongo DB
+
 https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
 
+https://www.youtube.com/watch?v=s1WQ0eEpqqg
+
+steps 
+----------
+brew services start mongodb-community@6.0          
+brew services stop mongodb-community@6.0
+mongod --config /opt/homebrew/etc/mongod.conf --fork
+mongosh
+show dbs
 

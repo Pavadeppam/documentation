@@ -5,3 +5,6 @@ A) Websecurity
           https://github.com/facebook/create-react-app/issues/11174
           https://overreacted.io/npm-audit-broken-by-design/
        
+   A.2) JWT - dont store tokens in local storage
+        https://www.youtube.com/watch?v=d2gfJ8UVPDo
+        
